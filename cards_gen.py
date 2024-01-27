@@ -18,10 +18,10 @@ COLORS = defaultdict(lambda: default_color, {
 })
 
 # Fonts
-FONT_REGULAR =      'Montserrat-Regular.ttf'
-FONT_BOLD =         'Montserrat-Bold.ttf'
-FONT_ITALIC =       'Montserrat-Italic.ttf'
-FONT_NUSALIVER =    'nusaliver.ttf'
+FONT_REGULAR =      'fonts/Montserrat-Regular.ttf'
+FONT_BOLD =         'fonts/Montserrat-Bold.ttf'
+FONT_ITALIC =       'fonts/Montserrat-Italic.ttf'
+FONT_NUSALIVER =    'fonts/nusaliver.ttf'
 
 # Define fonts
 fonts = {
@@ -47,8 +47,8 @@ icons = {
 CARDS_CSV = 'CnS_cards.csv'
 PICS_FOLDER = 'pics'
 CARDS_FOLDER = 'cards'
-TEMPLATE_IMAGE = Image.open("template_inca.png")
-TEMPLATE_IMAGE_DAMAGE = Image.open("CardTemplate_Damage.jpg")
+TEMPLATE_IMAGE = Image.open("templates/template_inca.png")
+TEMPLATE_IMAGE_DAMAGE = Image.open("templates/CardTemplate_Damage.jpg")
 
 def read_cards_data(file_path):
     """
