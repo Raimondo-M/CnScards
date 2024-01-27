@@ -1,0 +1,25 @@
+Title,Type,PTS,Colour,Target,Requirement,Tags,Effect,Fail,Flavor
+Battlemaster,Core Ability,15,Red,-,-,-,"When you roll maximum damage, roll again. There is no limit to the number of times the dice can ‘explode.’",-,You have been trained as a soldier who knows how to hit hard.
+Armorer,Skill,8,Red,8,-,-,"In arm’s length of an ally, roll this skill to repair 1 damaged armor item in their inventory.","On a failure, the armor is destroyed","Trust me, I know what I am doing..."
+Linguistic,Skill,10,Yellow,10,-,-,"Discern lost or unknown language, glyphs, or writing",-,-
+Torches,Loot,1,Loot,-,-,Fire,"3 count, snap-light, burns for 1 scene",-,-
+Assault,Damage,-,-,-,Basic Attrition,-,Cross off any 1 equipment or skill,-,-
+Wound,Damage,-,-,-,Flesh Attrition,-,Randomly select a skill and cross it off,-,-
+Claws,Damage,-,-,-,Equipment Attrition,-,Randomly select 1 equipment and cross it off,-,-
+Fail,Damage,-,-,-,Destroy Attrition,-,Destroy 1 random equipment AND cross off 1 randomly selected skill. Destroyed equipment is permanently lost,-,-
+Swallowed,Damage,-,-,-,Brutal Attrition,-,Cross 1D6 total random equipment and skills,-,-
+Lightning orb,Spell,9,Yellow,-,Exhausting,"Summon, Lightning, Duration extended","Conjure an orb of pure electicity for 2D6 phases. \n It has 1 Attrition, DEF 5. It deal 1D6 damages to any attacking it or passing by. It can move and attack at your command. \n\n Exhausting: No magic can be used for 1 round after cast.",-,-
+The Monkey,Core Ability,15,Green,-,-,-,"HURRY gives no DEF penalty to you. \nYou can always roll Evasion rather than DEF to avoid any attack.",-,"You are extremely agile and fast, hard to catch."
+Savage,Core Ability,15,Green,-,-,-,"Gain Scout and Resist at 9. \nUncrossed Resist also gives you DEF +4.",-,You grew up in the wilderness.
+Sailor_1,Core Ability,15,Blue,-,Pirate,-,"Gain Sailing and Swimming at 10. \nOn a boat or against unaware enemies, roll an extra damage die with a melee weapon.",-,You feel yourself only out in the open sea.
+Sailor_2,Core Ability,15,Blue,-,Ship’s boy,-,"Gain Sailing and Swimming at 10. \nOn a boat or against unaware enemies, roll an extra damage die with a melee weapon.",-,You feel yourself only out in the open sea.
+Sailor_3,Core Ability,15,Blue,-,Captain,-,"Gain Sailing and Swimming at 10. \nGain Oratory at 6, roll it to command D4 crew members to act immediately.",-,You feel yourself only out in the open sea.
+Elemental Paragon_1,Core Ability,15,Red,-,Fire,-,"Gain Fire at 5. \nRoll it to cast an expended Fire spell. \nYour Unarmed attacks deal 2d6 + Burn damages.",-,You are born with a supernatural affinity with Fire magic.
+Elemental Paragon_2,Core Ability,15,Blue,-,Water,-,"Gain Water at 5. \nRoll it to cast an expended Water spell. \nRestoring Water: Roll Magic (Water) to heal 1 skill attrition, range 20’, no limit uses. On a critical fail, lose spellcasting for D4 rounds.",-,You are born with a supernatural affinity with Water magic.
+Elemental Paragon_3,Core Ability,15,Green,-,Earth,-,"Gain Earth at 5. \nRoll it to cast an expended Earth spell. \nStone Wall: 20’ wide, 6 Attrition, 12 DEF, 3 uses per safe rest.",-,You are born with a supernatural affinity with Earth magic.
+Elemental Paragon_4,Core Ability,15,Yellow,-,Air,-,"Gain Air at 5. \nRoll it to cast an expended Air spell. \nRoll Air to Vanish to HURRY without penalties.",-,You are born with a supernatural affinity with Air magic.
+Elemental Paragon_5,Core Ability,15,Purple,-,Void,-,"Gain Void at 5. \nRoll it to cast an expended Void spell. \nRoll Void to Vanish. Almost invisible (16+ to be seen). No limit, but suffer 1 skill attrition for any 10 consecutive minutes.",-,You are born with a supernatural affinity with Void magic.
+Glyph Caster,Core Ability,15,Loot,-,-,-,"Gain Faith at 5. \nWhen casting a Faith spell, you can spend D4 phases uninterrupted to cast the spell. \nIf successful, add 2 additional Spell Effects. \nRequires colours or other tools.",-,You can invoke spirit with your paintings on caves and stones.
+Myths Seeker,Core Ability,15,Purple,-,-,-,"Gain Knowledge at 10. \nYou can roll it to recall information about monsters and enemies. \nYou are also a very reputable member of your tribe, and any NPC from a friendly tribe will be respectful and helpful towards you. \nAlso, when you discover the world’s secrets or expand your knowledge of myths, gain PTS.",-,You are a living treasure of tribes’ history and myths.
+Dinosaurs Trainer,Core Ability,15,Green,-,-,-,"Gain a Dinosaur companion (pts 15) and Animal Handiling at 6. \nAlso, you can communicate with no Penalties when interacting with dinosaurs, reptiles or amphibians.",-,You live training dinosaurs.
+Herbalist,Core Ability,15,Green,-,-,-,"Gain a Helbalist’s Pouch and Foraging at 9. \nYou always get 2 herbs or other plants when foraging. \nOn a 6 or less roll on Foraging, roll 2 D8 and choose the preferred result.",-,"You are an expert in the use of herbs, root, plants and fungi."
