@@ -1,4 +1,4 @@
-Simple code to create cards for TTRPG, done based on Crown and Skull from Runehammer games
+A simple code to create cards for TTRPG. The cards' format is based on Crown and Skull from Runehammer games, but it can be customised by changing the code.
 1) Fill the CSV file with the descriptions of your cards.
 2) If you have images for the cards, place them in a folder named "pics." Make sure each image has the same name as the corresponding card in the CSV file.
 3) Execute the 'cards_gen.py' script to generate the cards.
